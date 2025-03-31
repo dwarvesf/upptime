@@ -17,8 +17,8 @@ assignees: # Users to assign downtime issues (optional)
   - lmquang
 status-website:
   publish: true
-  apiBaseUrl: https://proxy-api.status.d.foundation
-  userContentBaseUrl: https://proxy-raw.status.d.foundation
+  # apiBaseUrl: https://proxy-api.status.d.foundation
+  # userContentBaseUrl: https://proxy-raw.status.d.foundation
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: status.d.foundation
   # Uncomment the following line if you don't have a custom domain and add your repo name
