@@ -1,0 +1,24 @@
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: proxy-raw-ingress
+  namespace: upptime
+  annotations:
+    cert-manager.io/cluster-issuer: letsencrypt-prod
+spec:
+  ingressClassName: nginx
+  tls:                                                                                                                    
+  - hosts: 
+    - proxy-raw.status.d.foundation
+    secretName: proxy-raw.status.d.foundation-tls
+  rules:
+  - host: proxy-raw.status.d.foundation
+    http:
+      paths:
+      - path: /
+        pathType: Prefix
+        backend:
+          service:
+            name: nginx-raw-proxy-service
+            port:
+              number: 80
