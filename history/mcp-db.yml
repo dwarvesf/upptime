@@ -1,7 +1,7 @@
 url: $MCP_DB_URL
 status: down
 code: 503
-responseTime: 94
-lastUpdated: 2025-04-18T23:18:25.823Z
+responseTime: 65
+lastUpdated: 2025-04-19T23:20:17.491Z
 startTime: 2025-03-25T16:56:32.285Z
 generator: Upptime <https://github.com/upptime/upptime>
