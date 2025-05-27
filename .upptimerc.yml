@@ -9,10 +9,18 @@ sites:
     url: $FORTRESS_API_URL
   - name: IR API
     url: $IR_API_URL
-  - name: ICY API
+  - name: ICY swap API
     url: $ICY_API_URL
-  - name: MCP DB
-    url: $MCP_DB_URL
+  - name: Brainery API
+    url: $BRAINERY_API_URL
+  - name: CGit
+    url: $CGIT_URL
+    headers:
+      - "Authorization: Basic $CGIT_BASIC_AUTH"
+  - name: Deepwiki
+    url: $DEEPWIKI_URL
+  - name: Vault
+    url: $VAULT_URL
 assignees: # Users to assign downtime issues (optional)
   - lmquang
 status-website:
