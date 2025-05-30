@@ -22,18 +22,20 @@
     "url": "$IR_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ir-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 115,
-    "timeDay": 88,
-    "timeWeek": 188,
-    "timeMonth": 116,
+    "timeDay": 87,
+    "timeWeek": 176,
+    "timeMonth": 115,
     "timeYear": 115,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-30": 0
+    }
   },
   {
     "name": "ICY swap API",
@@ -76,53 +78,59 @@
     "url": "$CGIT_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "c-git",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 53,
-    "timeDay": 3,
-    "timeWeek": 53,
-    "timeMonth": 53,
-    "timeYear": 53,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 59,
+    "timeDay": 43,
+    "timeWeek": 59,
+    "timeMonth": 59,
+    "timeYear": 59,
+    "dailyMinutesDown": {
+      "2025-05-30": 0
+    }
   },
   {
     "name": "Deepwiki",
     "url": "$DEEPWIKI_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "deepwiki",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 324,
-    "timeDay": 74,
-    "timeWeek": 324,
-    "timeMonth": 324,
-    "timeYear": 324,
-    "dailyMinutesDown": {}
+    "time": 274,
+    "timeDay": 75,
+    "timeWeek": 274,
+    "timeMonth": 274,
+    "timeYear": 274,
+    "dailyMinutesDown": {
+      "2025-05-30": 0
+    }
   },
   {
     "name": "Vault",
     "url": "$VAULT_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vault",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 293,
-    "timeDay": 86,
-    "timeWeek": 293,
-    "timeMonth": 293,
-    "timeYear": 293,
-    "dailyMinutesDown": {}
+    "time": 248,
+    "timeDay": 78,
+    "timeWeek": 248,
+    "timeMonth": 248,
+    "timeYear": 248,
+    "dailyMinutesDown": {
+      "2025-05-30": 0
+    }
   }
 ]
