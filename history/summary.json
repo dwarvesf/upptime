@@ -22,19 +22,19 @@
     "url": "$IR_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ir-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 115,
-    "timeDay": 87,
-    "timeWeek": 176,
+    "timeDay": 100,
+    "timeWeek": 171,
     "timeMonth": 115,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2025-05-30": 0
+      "2025-05-30": 11
     }
   },
   {
@@ -78,19 +78,19 @@
     "url": "$CGIT_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "c-git",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 59,
-    "timeDay": 43,
-    "timeWeek": 59,
-    "timeMonth": 59,
-    "timeYear": 59,
+    "status": "up",
+    "uptime": "99.72%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.72%",
+    "time": 50,
+    "timeDay": 30,
+    "timeWeek": 50,
+    "timeMonth": 50,
+    "timeYear": 50,
     "dailyMinutesDown": {
-      "2025-05-30": 0
+      "2025-05-30": 11
     }
   },
   {
@@ -98,19 +98,19 @@
     "url": "$DEEPWIKI_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "deepwiki",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 274,
-    "timeDay": 75,
-    "timeWeek": 274,
-    "timeMonth": 274,
-    "timeYear": 274,
+    "status": "up",
+    "uptime": "99.72%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.72%",
+    "time": 244,
+    "timeDay": 81,
+    "timeWeek": 244,
+    "timeMonth": 244,
+    "timeYear": 244,
     "dailyMinutesDown": {
-      "2025-05-30": 0
+      "2025-05-30": 11
     }
   },
   {
@@ -118,19 +118,19 @@
     "url": "$VAULT_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vault",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 248,
-    "timeDay": 78,
-    "timeWeek": 248,
-    "timeMonth": 248,
-    "timeYear": 248,
+    "status": "up",
+    "uptime": "99.72%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.72%",
+    "time": 222,
+    "timeDay": 82,
+    "timeWeek": 222,
+    "timeMonth": 222,
+    "timeYear": 222,
     "dailyMinutesDown": {
-      "2025-05-30": 0
+      "2025-05-30": 11
     }
   }
 ]
