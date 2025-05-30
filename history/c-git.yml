@@ -1,7 +1,7 @@
 url: $CGIT_URL
-status: down
-code: 503
-responseTime: 83
-lastUpdated: 2025-05-30T09:34:18.410Z
+status: up
+code: 200
+responseTime: 3
+lastUpdated: 2025-05-30T09:45:37.513Z
 startTime: 2025-05-27T14:12:47.284Z
 generator: Upptime <https://github.com/upptime/upptime>
