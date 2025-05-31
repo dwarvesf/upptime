@@ -58,18 +58,20 @@
     "url": "$BRAINERY_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "brainery-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2608,
-    "timeDay": 1408,
-    "timeWeek": 2608,
-    "timeMonth": 2608,
-    "timeYear": 2608,
-    "dailyMinutesDown": {}
+    "time": 5573,
+    "timeDay": 10901,
+    "timeWeek": 5573,
+    "timeMonth": 5573,
+    "timeYear": 5573,
+    "dailyMinutesDown": {
+      "2025-05-31": 0
+    }
   },
   {
     "name": "CGit",
