@@ -1,7 +1,7 @@
 url: $BRAINERY_API_URL
 status: down
-code: 401
-responseTime: 1409
-lastUpdated: 2025-05-31T23:19:44.417Z
+code: 503
+responseTime: 29283
+lastUpdated: 2025-06-01T23:19:51.443Z
 startTime: 2025-05-27T14:12:46.610Z
 generator: Upptime <https://github.com/upptime/upptime>
