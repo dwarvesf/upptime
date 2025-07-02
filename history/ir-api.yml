@@ -1,7 +1,7 @@
 url: $IR_API_URL
-status: up
-code: 200
+status: down
+code: 503
 responseTime: 61
-lastUpdated: 2025-07-01T23:20:05.311Z
+lastUpdated: 2025-07-02T09:31:10.705Z
 startTime: 2025-03-26T15:27:02.451Z
 generator: Upptime <https://github.com/upptime/upptime>
