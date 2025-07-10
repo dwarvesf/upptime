@@ -1,7 +1,7 @@
 url: $DEEPWIKI_URL
-status: down
-code: 503
-responseTime: 73
-lastUpdated: 2025-07-10T04:02:25.011Z
+status: up
+code: 200
+responseTime: 86
+lastUpdated: 2025-07-10T04:39:59.602Z
 startTime: 2025-05-27T14:12:48.599Z
 generator: Upptime <https://github.com/upptime/upptime>
