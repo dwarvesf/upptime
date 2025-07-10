@@ -1,7 +1,7 @@
 url: $VAULT_URL
-status: down
-code: 503
-responseTime: 348
-lastUpdated: 2025-07-10T09:31:51.073Z
+status: up
+code: 200
+responseTime: 74
+lastUpdated: 2025-07-10T09:47:46.155Z
 startTime: 2025-05-27T14:12:49.986Z
 generator: Upptime <https://github.com/upptime/upptime>
