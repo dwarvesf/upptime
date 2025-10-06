@@ -1,7 +1,7 @@
 url: $FORTRESS_API_URL
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-10-06T11:04:33.061Z
+status: up
+code: 200
+responseTime: 3717
+lastUpdated: 2025-10-06T11:22:31.250Z
 startTime: 2025-03-25T16:56:27.244Z
 generator: Upptime <https://github.com/upptime/upptime>
