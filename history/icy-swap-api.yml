@@ -1,7 +1,7 @@
 url: $ICY_API_URL
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-10-18T20:25:56.399Z
+status: up
+code: 200
+responseTime: 482
+lastUpdated: 2025-10-18T21:16:57.320Z
 startTime: 2025-05-27T14:12:45.354Z
 generator: Upptime <https://github.com/upptime/upptime>
